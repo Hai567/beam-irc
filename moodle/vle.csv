@@ -1,0 +1,5 @@
+id_site,code_module,code_presentation,activity_type,week_from,week_to
+1,TEST_XS,TEST_XS,assign,1,1
+2,TEST_XS,TEST_XS,page,1,1
+3,TEST_XS,TEST_XS,resource,0,0
+4,TEST_XS,TEST_XS,resource,1,1
